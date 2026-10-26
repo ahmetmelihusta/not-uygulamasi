@@ -1,0 +1,6 @@
+Linux Komutları:
+wc -w ornek.txt  //Kaç tane kelime olduğunu sayar
+sort names.txt  //Kelimeleri alfabetik olarak sıralar 
+sed 'x,yd' file.txt  //x ve y arasındaki (x ve y dahil) satırları siler 
+sort -n numbers.txt  //dosyadaki sayıları veya rakamları numaralarına göre sıralar
+sed 's/^/ /' file.txt  //Bütün satırlara girinti ekler
