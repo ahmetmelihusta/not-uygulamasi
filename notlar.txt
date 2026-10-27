@@ -11,4 +11,4 @@ git init: Depo baslatir
 git add: Dosyalari stage kısmına alır 
 git commit: Degisiklikleri commit eder
 git status: Durumu gosterir 
-git log: Gecmişi gösterir 
+git log: yaptığım hatayı telafi için nottaki değişiklik
