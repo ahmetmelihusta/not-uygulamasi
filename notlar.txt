@@ -4,3 +4,11 @@ sort names.txt  //Kelimeleri alfabetik olarak sıralar
 sed 'x,yd' file.txt  //x ve y arasındaki (x ve y dahil) satırları siler 
 sort -n numbers.txt  //dosyadaki sayıları veya rakamları numaralarına göre sıralar
 sed 's/^/ /' file.txt  //Bütün satırlara girinti ekler
+
+
+Hafta 2 Notları:
+git init: Depo baslatir  
+git add: Dosyalari stage kısmına alır 
+git commit: Degisiklikleri commit eder
+git status: Durumu gosterir 
+git log: Gecmişi gösterir 
